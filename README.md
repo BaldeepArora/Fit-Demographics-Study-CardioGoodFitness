@@ -1,7 +1,7 @@
 # Fit-Demographics-Study-CardioGoodFitness
 Highlighting the optimization of the fitness product market through consumer insights using treadmill products.
 
-# Objective 
+### Objective 
 The objective is to perform a comprehensive Exploratory Data Analysis (EDA) on a dataset of customers purchasing fitness products. The analysis covers various aspects to understand customer profiles, product preferences, and the relationship between different demographic and fitness metrics. The main objectives include:
 * Understanding the dataset structure and content
 * Conducting univariate and bivariate analyses
@@ -9,7 +9,7 @@ The objective is to perform a comprehensive Exploratory Data Analysis (EDA) on a
 * Building customer profiles for different products
 * Extracting key insights and business recommendations
 
-# Content
+### Content
 The notebook is structured into several sections, each focusing on different analysis aspects:
 * Data Importing and Cleaning
 * Exploratory Data Analysis
@@ -19,7 +19,7 @@ The notebook is structured into several sections, each focusing on different ana
 * Customer Profile Building
 * Key Insights and Business Recommendations
 
-# Libraries Used:
+### Libraries Used:
 The analysis utilizes several Python libraries for data manipulation and visualization:
 * pandas: For data manipulation and analysis
 * numpy: For numerical calculations
@@ -27,7 +27,7 @@ The analysis utilizes several Python libraries for data manipulation and visuali
 * seaborn: For data visualization based on matplotlib
 * warnings: To manage warning messages
 
-# Dataset:
+### Dataset:
 The dataset includes information on customers who have purchased treadmill products , including demographics, product choices, and fitness metrics.
 
 * Product: The model of the fitness product purchased (e.g., TM195).
